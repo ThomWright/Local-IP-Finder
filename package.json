@@ -1,0 +1,8 @@
+{
+  "name": "WPA4220-IP-Finder",
+  "version": "0.0.1",
+  "description": "Find the IP for a TP-Link TL-WPA4220.",
+  "main": "index.js",
+  "author": "Thom Wright <npm@thomwright.co.uk> (http://thomwright.co.uk/)",
+  "license": "MIT"
+}
